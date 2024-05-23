@@ -3,6 +3,7 @@
 #Merhaba! Ben Ahmet Şirin. Bu repo, C# tabanlı Eczane Stok Takip sistemi ve ona entegre Nöbetçi eczane Sistemi projemin Anlatımını içermektedir.
 
 ## Bilinmesi Gerekenler
+- VTUrunSatis.bak dosyasını mssql e import edin. (VTUrunSatis.bak dosyası projenin içinde içinden çıkarıp başka bir yere koyabilirsiniz..) 
 - mssql serverinizi açtıktan sonra server isminizi appsettings.json dosyasındaki AHMETSIRIN yazan kısma yazarak değiştiriniz.
 - projeyi IIS express ile açınız..
 - 2 farklı kullanıcı kullanabiliyor müşteri ve admin
